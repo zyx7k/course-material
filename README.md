@@ -34,4 +34,12 @@ Hope this helps :->
       <li>VLSI Design</li>
     </ol>
   </li>
+  <li>Semester 4
+    <ol>
+      <li>Intro to Human Sciences</li>
+      <li>Intro to Pocessor Architecture</li>
+      <li>Intro to Coding Theory</li>
+      <li>Communication Theory</li>
+    </ol>
+  </li>
 </ol>
