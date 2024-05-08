@@ -6,49 +6,40 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 
 ## Courses added:
 
-<ol>
-  <li>Semester 1
-    <ol>
-      <li>Computer Programming</li>
-      <li>Digital Systems and Microcontrollers</li> 
-      <li>Discrete Structures</li>
-      <li>Network, Signals and Systems</li>
-      <li>Real Analysis</li>
-    </ol>
-  </li>
-  <li>Semester 2
-  <ol>
-    <li>Analog Electronic Circuits</li>
-    <li>Data Structures and Algorithms</li>
-    <li>Information and Communication</li>
-    <li>Linear Algebra</li>
-  </ol>
-  </li>
-  <li>Semester 3
-    <ol>
-      <li>Algorithm Analysis and Design</li>
-      <li>Automata Theory</li>
-      <li>Data and Applications</li>
-      <li>Probability and Random Processes</li>
-      <li>Science 1</li>
-      <li>Signal Processing</li>
-      <li>Systems Thinking</li>
-      <li>VLSI Design</li>
-    </ol>
-  </li>
-  <li>Semester 4
-    <ol>
-      <li>Communication Theory</li>
-      <li>Communications and Controls in IoT</li>
-      <li>Computer Graphics</li>
-      <li>Design and Analysis of Software Systems</li>
-      <li>Intro to Coding Theory</li>
-      <li>Intro to Human Sciences</li>
-      <li>Intro to Pocessor Architecture</li>
-      <li>Machine, Data and Learning</li>
-      <li>Science 2</li>
-    </ol>
-  </li>
-</ol>
+```
+.
+├── sem_1
+│   ├── Computer Programming
+│   ├── Digital Systems and Microcontrollers
+│   ├── Discrete Structures
+│   ├── Networks, Signals and Systems
+│   └── Real Analysis
+├── sem_2
+│   ├── Analog Electronic Circuits
+│   ├── DSA Assingments
+│   ├── Information and Communication
+│   └── Linear Algebra
+├── sem_3
+│   ├── Algorithm Analysis and Design
+│   ├── Automata Theory
+│   ├── Data and Applications
+│   ├── Operating System and Networks
+│   ├── Probability and Random Processes
+│   ├── Probability and Statistics
+│   ├── Science 1
+│   ├── Signal Processing
+│   ├── Systems Thinking
+│   └── VLSI Design
+└── sem_4
+    ├── Communication Theory
+    ├── Communications and Controls in IoT
+    ├── Computer Graphics
+    ├── Design and Analysis of Software Systems
+    ├── Intro to Coding Theory
+    ├── Intro to Human Sciences
+    ├── Intro to Processor Architecture
+    ├── Machine, Data and Learning
+    └── Science 2
+```
 
 Hope this helps!
