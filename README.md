@@ -35,11 +35,13 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
     ├── Communications and Controls in IoT
     ├── Computer Graphics
     ├── Design and Analysis of Software Systems
+    ├── Intro to Algorithm Engineering
     ├── Intro to Coding Theory
     ├── Intro to Human Sciences
     ├── Intro to Processor Architecture
     ├── Machine, Data and Learning
-    └── Science 2
+    ├── Science 2
+    └── Software Programming for Performance
 ```
 
 Hope this helps!
