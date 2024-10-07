@@ -45,6 +45,7 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 └───sem_5
     ├───Behavioral Research and Experiment Design
     ├───Digital Image Processing
+    ├───Digital VLSI Design
     ├───Gender and Society
     ├───Intro to Philosophy
     └───Topics in Applied Optimization
