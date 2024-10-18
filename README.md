@@ -18,6 +18,8 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 │   ├───Analog Electronic Circuits
 │   ├───DSA Assingments
 │   ├───Information and Communication
+│   ├───Introduction to IoT
+│   ├───Introduction to Software Systems
 │   └───Linear Algebra
 ├───sem_3
 │   ├───Algorithm Analysis and Design
@@ -39,6 +41,7 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 │   ├───Intro to Coding Theory
 │   ├───Intro to Human Sciences
 │   ├───Intro to Processor Architecture
+│   ├───Introduction to Quantum Information and Computation
 │   ├───Machine, Data and Learning
 │   ├───Science 2
 │   └───Software Programming for Performance
@@ -46,8 +49,10 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
     ├───Behavioral Research and Experiment Design
     ├───Digital Image Processing
     ├───Digital VLSI Design
+    ├───Distributed Systems
     ├───Gender and Society
     ├───Intro to Philosophy
+    ├───Readings from Hindi Literature
     └───Topics in Applied Optimization
 ```
 
