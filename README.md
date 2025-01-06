@@ -8,6 +8,19 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 
 ```
 .
+├───monsoon_24
+│   ├───Algorithms and Operating Systems
+│   ├───Behavioral Research and Experiment Design
+│   ├───Digital Image Processing
+│   ├───Digital VLSI Design
+│   ├───Distributed Systems
+│   ├───Gender and Society
+│   ├───Intro to Philosophy
+│   ├───Introduction to Quantum Field Theory
+│   ├───Mobile Robotics
+│   ├───Readings from Hindi Literature
+│   ├───Signal Detection and Estimation Theory
+│   └───Topics in Applied Optimization
 ├───sem_1
 │   ├───Computer Programming
 │   ├───Digital Systems and Microcontrollers
@@ -32,28 +45,19 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 │   ├───Signal Processing
 │   ├───Systems Thinking
 │   └───VLSI Design
-├───sem_4
-│   ├───Communication Theory
-│   ├───Communications and Controls in IoT
-│   ├───Computer Graphics
-│   ├───Design and Analysis of Software Systems
-│   ├───Intro to Algorithm Engineering
-│   ├───Intro to Coding Theory
-│   ├───Intro to Human Sciences
-│   ├───Intro to Processor Architecture
-│   ├───Introduction to Quantum Information and Computation
-│   ├───Machine, Data and Learning
-│   ├───Science 2
-│   └───Software Programming for Performance
-└───sem_5
-    ├───Behavioral Research and Experiment Design
-    ├───Digital Image Processing
-    ├───Digital VLSI Design
-    ├───Distributed Systems
-    ├───Gender and Society
-    ├───Intro to Philosophy
-    ├───Readings from Hindi Literature
-    └───Topics in Applied Optimization
+└───sem_4
+    ├───Communication Theory
+    ├───Communications and Controls in IoT
+    ├───Computer Graphics
+    ├───Design and Analysis of Software Systems
+    ├───Intro to Algorithm Engineering
+    ├───Intro to Coding Theory
+    ├───Intro to Human Sciences
+    ├───Intro to Processor Architecture
+    ├───Introduction to Quantum Information and Computation
+    ├───Machine, Data and Learning
+    ├───Science 2
+    └───Software Programming for Performance
 ```
 
 Hope this helps!
