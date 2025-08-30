@@ -1,8 +1,10 @@
 # Course Material
 
-Being an ECE Student, I have uploaded question papers relevant to that stream. Although, you can still find papers for the common courses like DSA, Linear Algebra etc-, and also for some CS courses. The comprehensive list of the available papers is mentioned below.<br>
+I’ve compiled question papers for ECE core courses, electives I’ve taken, as well as some papers sourced from other contributors. You’ll also find papers for common courses like DSA, Linear Algebra, and a few CS courses.<br>
 
-**`Note:`** I have tried my best to add as many papers as possible. If some paper for a particular exam is missing, it is most probably because it was a worksheet-based test and hence I could not retrieve the questions.
+For a full overview of all the available papers, please check the course tree in the README.<br>
+
+**`Note:`**  I’ve tried my best to collect as many papers as possible. If something is missing, it’s likely because that exam was worksheet-based and I couldn’t retrieve the questions.<br>
 
 ## Courses added:
 
