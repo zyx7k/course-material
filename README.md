@@ -8,56 +8,62 @@ Being an ECE Student, I have uploaded question papers relevant to that stream. A
 
 ```
 .
-├───monsoon_24
-│   ├───Algorithms and Operating Systems
-│   ├───Behavioral Research and Experiment Design
-│   ├───Digital Image Processing
-│   ├───Digital VLSI Design
-│   ├───Distributed Systems
-│   ├───Gender and Society
-│   ├───Intro to Philosophy
-│   ├───Introduction to Quantum Field Theory
-│   ├───Mobile Robotics
-│   ├───Readings from Hindi Literature
-│   ├───Signal Detection and Estimation Theory
-│   └───Topics in Applied Optimization
-├───sem_1
-│   ├───Computer Programming
-│   ├───Digital Systems and Microcontrollers
-│   ├───Discrete Structures
-│   ├───Networks, Signals and Systems
-│   └───Real Analysis
-├───sem_2
-│   ├───Analog Electronic Circuits
-│   ├───DSA Assingments
-│   ├───Information and Communication
-│   ├───Introduction to IoT
-│   ├───Introduction to Software Systems
-│   └───Linear Algebra
-├───sem_3
-│   ├───Algorithm Analysis and Design
-│   ├───Automata Theory
-│   ├───Data and Applications
-│   ├───Operating System and Networks
-│   ├───Probability and Random Processes
-│   ├───Probability and Statistics
-│   ├───Science 1
-│   ├───Signal Processing
-│   ├───Systems Thinking
-│   └───VLSI Design
-└───sem_4
-    ├───Communication Theory
+├───core
+│   ├───common
+│   │   ├───Computer Programming
+│   │   ├───Digital Systems and Microcontrollers
+│   │   ├───DSA Assingments
+│   │   ├───Intro to Human Sciences
+│   │   ├───Linear Algebra
+│   │   ├───Real Analysis
+│   │   ├───Science 1
+│   │   └───Science 2
+│   │       ├───spring_2024
+│   │       └───spring_2025
+│   ├───cxx
+│   │   ├───Algorithm Analysis and Design
+│   │   ├───Automata Theory
+│   │   ├───Data and Applications
+│   │   ├───Design and Analysis of Software Systems
+│   │   ├───Discrete Structures
+│   │   ├───Introduction to IoT
+│   │   ├───Introduction to Software Systems
+│   │   ├───Machine, Data and Learning
+│   │   ├───Operating System and Networks
+│   │   └───Probability and Statistics
+│   └───ecx
+│       ├───Analog Electronic Circuits
+│       ├───Communication Theory
+│       ├───Information and Communication
+│       ├───Intro to Processor Architecture
+│       ├───Networks, Signals and Systems
+│       ├───Probability and Random Processes
+│       ├───Signal Processing
+│       ├───Systems Thinking
+│       └───VLSI Design
+└───electives
+    ├───Algorithms and Operating Systems
+    ├───Basics of Ethics (H1 & H2)
+    ├───Behavioral Research and Experiment Design
     ├───Communications and Controls in IoT
     ├───Computer Graphics
-    ├───Design and Analysis of Software Systems
+    ├───Digital Image Processing
+    ├───Digital VLSI Design
+    ├───Distributed Systems
+    ├───Enviornmental and Social Governance in Mineral Extraction
+    ├───Gender and Society
     ├───Intro to Algorithm Engineering
     ├───Intro to Coding Theory
-    ├───Intro to Human Sciences
-    ├───Intro to Processor Architecture
+    ├───Intro to Philosophy
+    ├───Introduction to Quantum Field Theory
     ├───Introduction to Quantum Information and Computation
-    ├───Machine, Data and Learning
-    ├───Science 2
-    └───Software Programming for Performance
+    ├───Mobile Robotics
+    ├───Readings from Hindi Literature
+    ├───Signal Detection and Estimation Theory
+    │   ├───monsoon_24
+    │   └───monsoon_25
+    ├───Software Programming for Performance
+    └───Topics in Applied Optimization
 ```
 
 Hope this helps!
