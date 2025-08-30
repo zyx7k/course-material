@@ -1,6 +1,6 @@
 # Course Material
 
-I’ve compiled question papers for ECE core courses, electives I’ve taken, as well as some papers sourced from other contributors. You’ll also find papers for common courses like DSA, Linear Algebra, and a few CS courses.<br>
+I’ve compiled question papers for ECE, CSX core courses, electives I’ve taken, as well as some papers sourced from other contributors. You’ll also find papers for common courses like DSA, Linear Algebra, and a few CS courses.<br>
 
 For a full overview of all the available papers, please check the course tree in the README.<br>
 
